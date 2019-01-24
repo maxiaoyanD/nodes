@@ -12,13 +12,11 @@
 3. C
 > 这是我的笔记文档
 
-![nodes](D:\nodes\nodes\img\nodes.jpg)
+![nodes](img\nodes.jpg)
 这是一个事实  **哈哈哈哈**  
 你不知道   *斜体*
 **下面是表格**
-| name				  | sex			      | num    |
-| ------------------- | :----------------:| ------:|
-|  nihao			  |  hhhhh			  | 201    |
+
 
 ```JavaScript
 var a = 99;
@@ -26,3 +24,8 @@ console.log(a);
 ```
 ***
 over over yeah
+
+| 第一列 | 第二列 | 第三列 |
+| ------ | ------ | ------ |
+| 1      | 2      | 3      |
+
